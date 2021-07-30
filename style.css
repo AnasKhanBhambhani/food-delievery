@@ -1,0 +1,32 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.head{
+   width: 100vw;
+   height: 43px;
+   background-color:var(--secondary);
+}
+.icons{
+
+    margin-left: 141px;
+    font-family: var(--font2);
+    font-weight: 300;
+}
+.icon{
+    margin: 12px 12px;
+}
+.logos{
+    margin-right: 200px;
+}
+.logo a{
+    text-decoration: none;
+    color: white;
+    margin: 12px;
+
+}
+.divider{
+    color: var(--pure);
+    margin: 12px;
+}
